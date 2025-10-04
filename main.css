@@ -89,6 +89,7 @@ body {
 }
 #button {
   height: 42px;
+  padding: 0 20px;
 }
 #content {
   width: calc(50% - 15px);
@@ -101,4 +102,5 @@ body {
 #footer {
   height: 72px;
 }
+
 
