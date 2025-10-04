@@ -64,7 +64,7 @@ body {
 .title {
   width: 600px;
   height: 80px;
-  margin-bottom: 50px;
+  margin:0 auto 50px auto;
 }
 .section__2__item {
   width: calc((100% - 60px) / 3);
@@ -101,6 +101,7 @@ body {
 #footer {
   height: 72px;
 }
+
 
 
 
