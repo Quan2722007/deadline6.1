@@ -47,6 +47,8 @@ body {
 }
 .box .container {
   flex-wrap: wrap;
+}
+.warrper{
   max-width: 1200px;
   width: 95%;
   margin: 0 auto;
@@ -106,6 +108,7 @@ body {
 #footer {
   height: 72px;
 }
+
 
 
 
